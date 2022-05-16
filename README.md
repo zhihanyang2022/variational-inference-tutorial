@@ -7,3 +7,4 @@ Included models:
 - VAE
 - Gaussian mixture VAE
 - Variational RNN
+- Stochastic latent actor-critic
