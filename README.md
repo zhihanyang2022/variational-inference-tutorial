@@ -6,4 +6,5 @@ Included models:
 
 - Gaussian mixture model with neural networks
 - VAE
+- Gaussian mixture VAE
 - Variational RNN
